@@ -5,7 +5,11 @@ It displays key details like temperature, humidity, wind speed, and a descriptiv
 
 Features:
 
+
 -Automatic location detection
+
 -Option to search for weather in any city
+
 -Display of current temperature, humidity, wind speed, and weather conditions
+
 -Dynamic background that changes based on the current weather
